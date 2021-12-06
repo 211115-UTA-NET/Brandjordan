@@ -1,0 +1,15 @@
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.csproj.AssemblyReference.cache
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.AssemblyInfoInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.AssemblyInfo.cs
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.csproj.CoreCompileInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/bin/Debug/net6.0/FileInteractions
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/bin/Debug/net6.0/FileInteractions.deps.json
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/bin/Debug/net6.0/FileInteractions.runtimeconfig.json
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/bin/Debug/net6.0/FileInteractions.dll
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/bin/Debug/net6.0/ref/FileInteractions.dll
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/bin/Debug/net6.0/FileInteractions.pdb
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.dll
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/ref/FileInteractions.dll
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.pdb
+/Users/brandonjordan/Revature1/Brandjordan/FileInteractions/obj/Debug/net6.0/FileInteractions.genruntimeconfig.cache

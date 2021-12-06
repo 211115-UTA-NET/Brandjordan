@@ -1,0 +1,15 @@
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/Classes/bin/Debug/net6.0/Classes
+/Users/brandonjordan/Revature1/Brandjordan/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/brandonjordan/Revature1/Brandjordan/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/brandonjordan/Revature1/Brandjordan/Classes/bin/Debug/net6.0/Classes.dll
+/Users/brandonjordan/Revature1/Brandjordan/Classes/bin/Debug/net6.0/ref/Classes.dll
+/Users/brandonjordan/Revature1/Brandjordan/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.dll
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/ref/Classes.dll
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/brandonjordan/Revature1/Brandjordan/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/bin/Debug/net6.0/FizzBuzz
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/bin/Debug/net6.0/FizzBuzz.deps.json
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/bin/Debug/net6.0/FizzBuzz.runtimeconfig.json
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/bin/Debug/net6.0/FizzBuzz.dll
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/bin/Debug/net6.0/ref/FizzBuzz.dll
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/bin/Debug/net6.0/FizzBuzz.pdb
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.AssemblyInfo.cs
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.dll
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/ref/FizzBuzz.dll
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.pdb
+/Users/brandonjordan/Revature1/Brandjordan/FizzBuzz/obj/Debug/net6.0/FizzBuzz.genruntimeconfig.cache

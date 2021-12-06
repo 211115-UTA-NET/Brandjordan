@@ -1,0 +1,15 @@
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/bin/Debug/net6.0/Interfaces
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/bin/Debug/net6.0/Interfaces.deps.json
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/bin/Debug/net6.0/Interfaces.runtimeconfig.json
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/bin/Debug/net6.0/Interfaces.dll
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/bin/Debug/net6.0/ref/Interfaces.dll
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/bin/Debug/net6.0/Interfaces.pdb
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.dll
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/ref/Interfaces.dll
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.pdb
+/Users/brandonjordan/Revature1/Brandjordan/Interfaces/obj/Debug/net6.0/Interfaces.genruntimeconfig.cache

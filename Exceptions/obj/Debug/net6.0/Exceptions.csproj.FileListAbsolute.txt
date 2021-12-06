@@ -1,0 +1,15 @@
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.csproj.AssemblyReference.cache
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfoInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfo.cs
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/bin/Debug/net6.0/Exceptions
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/bin/Debug/net6.0/Exceptions.deps.json
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/bin/Debug/net6.0/Exceptions.runtimeconfig.json
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/bin/Debug/net6.0/Exceptions.dll
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/bin/Debug/net6.0/ref/Exceptions.dll
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/bin/Debug/net6.0/Exceptions.pdb
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.dll
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/ref/Exceptions.dll
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.pdb
+/Users/brandonjordan/Revature1/Brandjordan/Exceptions/obj/Debug/net6.0/Exceptions.genruntimeconfig.cache

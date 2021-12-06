@@ -1,0 +1,15 @@
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/bin/Debug/net6.0/MyFirstDotnet
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/bin/Debug/net6.0/MyFirstDotnet.deps.json
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/bin/Debug/net6.0/MyFirstDotnet.runtimeconfig.json
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/bin/Debug/net6.0/MyFirstDotnet.dll
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/bin/Debug/net6.0/ref/MyFirstDotnet.dll
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/bin/Debug/net6.0/MyFirstDotnet.pdb
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.csproj.AssemblyReference.cache
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.AssemblyInfoInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.AssemblyInfo.cs
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.csproj.CoreCompileInputs.cache
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.dll
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/ref/MyFirstDotnet.dll
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.pdb
+/Users/brandonjordan/Revature1/Brandjordan/MyFirstDotnet/obj/Debug/net6.0/MyFirstDotnet.genruntimeconfig.cache
